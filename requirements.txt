@@ -1,9 +1,0 @@
-streamlit
-pandas
-sqlalchemy
-psycopg2-binary
-bcrypt
-plotly
-google-generativeai
-openpyxl
-python-dotenv
